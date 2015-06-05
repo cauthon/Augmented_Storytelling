@@ -1,6 +1,8 @@
 Augmented_Storytelling
 ======================
 
+[![Join the chat at https://gitter.im/cauthon/Augmented_Storytelling](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cauthon/Augmented_Storytelling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Augmented Storytelling
 
 Hello! 
